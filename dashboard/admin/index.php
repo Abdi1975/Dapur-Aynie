@@ -12,7 +12,7 @@
   
   <!-- Welcome Card -->
   <div class="card mb-4 shadow-sm">
-  <img src="assets/image/posterbg.jpg" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover;" alt="Restaurant Banner">
+  <img src="assets/image/posterbg.png" class="card-img-top" style="height: 280px; width: 100%; object-fit: cover;" alt="Restaurant Banner">
     <div class="card-body text-center">
       <h2 class="card-title font-weight-bold">Tentang Kami</h2>
 <p class="text-center lead">Makanan Cepat Saji Berkualitas</p>
