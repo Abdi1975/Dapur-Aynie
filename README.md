@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/849755fe-b007-481d-8d1d-5718639d4719" width="700" /> 
-
+  <img src="https://github.com/user-attachments/assets/06c0165d-254a-43ad-b25d-7c978a915f31" width="700" /> 
 </p>
 
 
@@ -39,17 +38,23 @@ Aplikasi Dapur Aynie bertujuan untuk mempermudah pemesanan dan transaksi makanan
 # Tampilan Aplikasi Website Dapur Aynie
 
 1. Tampilan Login
-  ![image](https://github.com/user-attachments/assets/a4f0ff8b-a7c5-47e9-b53b-5a26310bd79f)
+![Screenshot (196)](https://github.com/user-attachments/assets/ba45681f-b21d-4884-9ce1-cccb2f101881)
+
 2. Login sebagai Pelanggan
-  ![image](https://github.com/user-attachments/assets/a2e037be-5fb9-4ccf-afca-547449f9d852)
+![Screenshot (197)](https://github.com/user-attachments/assets/289e4ad3-9eb9-42a8-9558-46195134d665)
+
 3. Login sebagai Waiter
-   ![image](https://github.com/user-attachments/assets/7338ad84-fd97-499f-83cb-8333c88c3f64)
+![Screenshot (198)](https://github.com/user-attachments/assets/dcb63333-3d40-41e5-bd36-370a974b298b)
+
 4. Login sebagai Kasir
-   ![image](https://github.com/user-attachments/assets/7504c45f-3b3b-45c5-a644-fd9a389d1077)
+![Screenshot (199)](https://github.com/user-attachments/assets/210e4538-cd03-4041-ad9c-1197e9f9eb63)
+
 5. Login sebagai Owner
-   ![image](https://github.com/user-attachments/assets/c0c8e14a-74d4-4795-94e5-d6f377a1bc7e)
+![Screenshot (200)](https://github.com/user-attachments/assets/d88fd8a4-6cd1-453e-b6f9-cb837a3e9a63)
+
 6. Login sebagai Admin
-   ![image](https://github.com/user-attachments/assets/871dbb00-fb63-4618-af7e-a6380b74c7eb)
+![Screenshot (202)](https://github.com/user-attachments/assets/88b48092-ad08-4b87-b9c8-11b9d18dc9e8)
+
 
 
 
