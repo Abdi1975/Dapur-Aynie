@@ -22,7 +22,7 @@ Aplikasi Dapur Aynie bertujuan untuk mempermudah pemesanan dan transaksi makanan
 - Mengelola data makanan & user sesuai role
 - Memberikan akses laporan penjualan ke owner
 
-# Anggota Kelompok
+# Anggota Kelompok 5
 
 1. Ramadhan Abdillah - NIM: 23050974002
 2. Ellestiana Muhimmatul R - NIM: 23050974010
